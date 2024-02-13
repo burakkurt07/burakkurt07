@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/burakkurt0707"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 ### Hi there 👋 :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
   🔭 I’m working as a Computer Programmer and contributing to frontend and backend for building web applications.
   🔭 I’m currently working on Desktop App Programming with C#, SQL and Visual Basic .NET & Web Programming with Wordpress
@@ -14,6 +14,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   ⚡ Fun fact: I'm love animes and mangas, and mostly classical music 🎼🎻 🎻 :)
   ⚡ In my free time I read tech articles and develop myself about IT.
   👯 You can read my articles: [https://medium.com/@burak0564]
+***
+📫 How to reach me: &nbsp; 
 ***
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
