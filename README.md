@@ -15,6 +15,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   ⚡ In my free time I read tech articles and develop myself about IT.
   👯 You can read my articles: [https://medium.com/@burak0564]
 ***
+
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  </p>
 
