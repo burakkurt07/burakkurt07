@@ -16,43 +16,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   👯 You can read my articles: [https://medium.com/@burak0564]
 ***
 📫 How to reach me: &nbsp; 
-***
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- </p>
-
-<br>
-
- <div align="center"> 
-  <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/hanzelkaraagac/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:hanzelkaraagaac@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-  <a href="https://medium.com/@hanzelkaraagac">
-   <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://twitter.com/hanzelkaraagac">
-   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
-  </a>
-  <a href="https://www.instagram.com/hanzelkaraagac/?hl=tr" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
-  </a>
-  <a href="https://discord.com/servers/software-library-1030166206025568356" target="_blank">
-   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
-  </a>
-
-
-</div>
-
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-📫 How to reach me: &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-burakkurt0707-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkurt0707)
 [![Linkedin Badge](https://img.shields.io/badge/-burakkurtburak0564-blue?style=flat&logo=medium&logoColor=white)](https://medium.com/@burak0564)
 
