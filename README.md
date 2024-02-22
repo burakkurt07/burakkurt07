@@ -1,4 +1,3 @@
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="33" height="33"/>&nbsp;  
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### Hi there 👋:
@@ -62,3 +61,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Kendi #Metaverse evreninizi yaratın (V2) 🫴✨ 7 Adımlı Rehber!](https://medium.com/@burak0564/kendi-metaverse-evreninizi-yarat%C4%B1n-v2-proje-tasar%C4%B1m%C4%B1-70728beeb504)
 - [Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri](https://medium.com/@burak0564/k%C3%BCt%C3%BCphane-veritaban%C4%B1-kitaplar-ve-%C3%B6%C4%9Frenciler-i%CC%87%C3%A7in-sql-%C3%A7%C3%B6z%C3%BCmleri-f6f2dbb65551)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+- [-](level999.com.tr) 
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="33" height="33"/>&nbsp;  
