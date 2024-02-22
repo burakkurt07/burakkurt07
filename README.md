@@ -1,8 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### Hi there 👋:
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="33" height="33"/>&nbsp;  
+I am a Full Stack Developer from Turkey.
 
   <br> 🔭 I’m working as a Computer Programmer and contributing to frontend and backend for building web applications. </br>
   <br> 🔭 I’m currently working on Desktop App Programming with C#, SQL and Visual Basic .NET & Web Programming with Wordpress </br>
