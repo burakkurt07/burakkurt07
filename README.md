@@ -7,9 +7,8 @@ I am a Full Stack Developer from Turkey.
   <br> 🔭 I’m working as a Computer Programmer and contributing to frontend and backend for building web applications. </br>
   <br> 🔭 I’m currently working on Desktop App Programming with C#, SQL and Visual Basic .NET & Web Programming with Wordpress </br>
   <br> 🌱 Exploring Technical Content Writing. </br>
-  <br> 🌱 I’m currently try learning Blueprint, Unreal Engine, Phyton, C++ and AI </br>
+  <br> 🌱 I’m currently try learning Blueprint, Unreal Engine, Python, C++ and AI </br>
   <br> 💬 Ask me about Help for C#, SQL and Visual Basic .NET </br>
-  <br> ⚡ Fun fact: I'm love animes and mangas, and mostly classical music 🎼🎻 🎻 :) </br>
   <br> ⚡ In my free time I read tech articles and develop myself about IT. </br>
   <br> 👯 You can read my articles: [https://medium.com/@burak0564] </br>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
