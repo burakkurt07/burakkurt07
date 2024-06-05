@@ -57,6 +57,6 @@ I am a Full Stack Developer from Turkey.
 
 ### ✍️ Blog Posts : 
 - [Sinema Bileti Satış Programı: Programlama Tutkunları İçin Harika bir Pratik Proje #OpenSource](https://medium.com/@burak0564/sinema-bileti-sat%C4%B1%C5%9F-program%C4%B1-programlama-tutkunlar%C4%B1-i%CC%87%C3%A7in-harika-bir-pratik-proje-opensource-f4fa3aa5b080)
-- [Raspberry Pi 3B+ ve OpenCV ile Yüz Tanıma](https://medium.com/@burak0564/raspberry-pi-3b-ve-opencv-ile-y%C3%BCz-alg%C4%B1lama-temel-bilgiler-ve-uygulamalar-t%C3%BCrk%C3%A7e-kurulum-a77d1562a6d9))
+- [Raspberry Pi 3B+ ve OpenCV ile Yüz Tanıma](https://medium.com/@burak0564/raspberry-pi-3b-ve-opencv-ile-y%C3%BCz-alg%C4%B1lama-temel-bilgiler-ve-uygulamalar-t%C3%BCrk%C3%A7e-kurulum-a77d1562a6d9)
 - [Kütüphane Veritabanı: Kitaplar ve Öğrenciler İçin SQL Çözümleri](https://medium.com/@burak0564/k%C3%BCt%C3%BCphane-veritaban%C4%B1-kitaplar-ve-%C3%B6%C4%9Frenciler-i%CC%87%C3%A7in-sql-%C3%A7%C3%B6z%C3%BCmleri-f6f2dbb65551)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
