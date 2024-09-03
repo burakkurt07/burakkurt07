@@ -22,7 +22,7 @@ I am a Full Stack Developer from Turkey.
   <a href="https://www.youtube.com/@burakkurt07" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/burakkurt0707/" target="_blank">
+  <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
   <a href = "mailto:burakkurt@zohomail.com">
