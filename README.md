@@ -51,7 +51,7 @@ I am a Full Stack Developer from Turkey.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="CANVA" alt="CANVA" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" title="OPEN Aİ" alt="CANVA" width="40" height="40"/>&nbsp;
-<img src="https://getvectorlogo.com/wp-content/uploads/2019/11/yolo-yoloswap-com-vector-logo.png" title="YOLO" alt="YOLO V5" width="90" height="40"/>&nbsp;
+<img src="https://getvectorlogo.com/wp-content/uploads/2019/11/yolo-yoloswap-com-vector-logo.png" title="YOLO" alt="YOLO V5" width="60" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/A/autocad-logo-69326D7728-seeklogo.com.png" title="AUTOCAD" alt="AUTOCAD" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/O/opencv-logo-A38F97FD2C-seeklogo.com.png" title="OPENCV" alt="OPENCV" width="40" height="40"/>&nbsp;
 
