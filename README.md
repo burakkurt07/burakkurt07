@@ -9,7 +9,7 @@ I am a Full Stack Developer from Turkey.
   <br> 🌱 Exploring Technical Content Writing. </br>
   <br> 🌱 I’m currently try learning Blueprint, Unreal Engine, Python, C++ and AI </br>
   <br> 💬 Ask me about Help for C#, SQL and Visual Basic .NET </br>
-  <br> ⚡ In my free time I read tech articles and develop myself about IT. </br>****
+  <br> ⚡ In my free time I read tech articles and develop myself about IT. </br>
   <br> 👯 You can read my Medium articles: https://medium.com/@burak0564 </br>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  </p>
