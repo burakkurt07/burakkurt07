@@ -46,7 +46,6 @@ I am a Full Stack Developer from Turkey.
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-plain-wordmark.svg"  title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg"  title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg"  title="bash" alt="bash" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg"  title="unity" alt="unity" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg"  title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/508894/aspnet.svg"  title="ASPNET" alt="ASPNET" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="CANVA" alt="CANVA" width="40" height="40"/>&nbsp;
